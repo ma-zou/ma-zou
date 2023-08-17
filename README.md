@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-zou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-zou&layout=compact)]
 
-## Operating System
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,go,nodejs,html,css,bash)]
+
+## Technology
+[![My Skills](https://skillicons.dev/icons?i=vue,apollo,d3,docker,electron,express,git,nuxt,supabase,tailwind,graphql,kafka,linux,mysql,postgres)]
 
 ## Software
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
-
-## Tech Stack
-[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,ai)]
